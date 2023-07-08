@@ -9,7 +9,7 @@
 Para que todo funcione correctamente se debe descargar todo este repositorio en su ordenador. A continuación descomprima el .zip descargado y podrá lanzar el programa. Hay dos maneras de lanzar el **CMD_CREATOR**:
 
 * EXCLUSIVO PARA WINDOWS: Ejecutar **CMD_CREATOR_(WINDOWS).exe** y se debería abrir una ventana para introducir algunos parámetros.
-* PARA TODOS LOS USUARIOS (ES NECESARIO TENER INSTALADO PYTHON 3 Y ALGUNOS MODULOS TÍPICOS): Ejecutar en un editor o en terminal el archivo **CMD_CREATOR.py**. Debería abrirse una ventana para introducir los parámetros.
+* PARA TODOS LOS USUARIOS (ES NECESARIO TENER INSTALADO PYTHON 3 Y ALGUNOS MODULOS TÍPICOS: NUMPY, MATPLOTLIB, SCIPY AND TKINTER): Ejecutar en un editor o en terminal el archivo **CMD_CREATOR.py**. Debería abrirse una ventana para introducir los parámetros.
 
 En primer lugar, el programa buscará cúmulos globulares en el catálogo de Harris dentro del rango de parámetros que se introduzcan. Se debe introducir una distancia máxima del Sol (en kpc) para la que se quiera buscar cúmulos 
 globulares.  En la segunda línea, se introduce la extinción máxima permitida para buscar cúmulos (en E(B-V)). En la tercera línea, se introduce la máxima metalicidad (en [Fe/H]) para la que se quiera buscar cúmulos y de manera
