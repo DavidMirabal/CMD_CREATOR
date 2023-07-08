@@ -1,5 +1,9 @@
 # CMD CREATOR
 
+**AVISO**: Es imprenscindible leer el TFG en el que se basa este software para entender su funcionamiento.
+
+**WARNING**: It is essential to read the TFG on which this software is based in order to understand how it works.
+
 ## INSTRUCCIONES (SPANISH)
 
 Para que todo funcione correctamente se debe descargar todo este repositorio en su ordenador. A continuación descomprima el .zip descargado y podrá lanzar el programa. Hay dos maneras de lanzar el **CMD_CREATOR**:
@@ -58,3 +62,33 @@ it is possible to manually fit the extinction and metallicity in **Manual fittin
 new parameters entered. This new figure is also saved in .png format in **Figures.../CMD-ISOCHRONES(filt)/**. It should be noted that not all isochrones of all possible metallicities are available, so when you enter a metallicity for which a
 is entered for a metallicity for which no isochrone is available, the program will automatically choose an available isochrone with the closest metallicity. The metallicity of the isochrone is shown at the top of the CMD.
 of the isochrone is displayed at the top of the CMD.
+
+## REFERENCES
+
+* Andrae, R., Fouesneau, M., Creevey, O., et al. 2018, Astronomy & Astrophysics, 616, A8, doi: 10.1051/0004-6361/201732516
+* Aparicio, A., & Gallart, C. 2004, The Astronomical Journal, 128, 1465, doi: 10.1086/382836
+* Aparicio, A., & Hidalgo, S. L. 2009, The Astronomical Journal, 138, 558, doi: 10.1088/0004-6256/138/2/558
+* Barmby, P., & Huchra, J. P. 2001, The Astronomical Journal, 122, 2458, doi: 10.1086/323457
+* Baumgardt, H., & Vasiliev, E. 2021, Monthly Notices of the Royal Astronomical Society, 505, 5957, doi: 10.1093/mnras/stab1474
+* Bressan, A., Marigo, P., Girardi, L., et al. 2012, Monthly Notices of the Royal Astronomical Society, 427, 127, doi: 10.1111/j.1365-2966.2012.21948.x
+* Chiosi, C., Bertelli, G., & Bressan, A. 1992, Annual Review of Astronomy and Astrophysics, 30, 235, doi: 10.1146/annurev.aa.30.090192.001315
+* Fabricius, C., Luri, X., Arenou, F., et al. 2021, Astronomy & Astrophysics, 649, A5, doi: 10.1051/0004-6361/202039834
+* Gaia Collaboration, Babusiaux, C., van Leeuwen, F., et al. 2018, Astronomy & Astrophysics, 616, A10, doi: 10.1051/0004-6361/201832843
+* Gaia Collaboration, Smart, R. L., Sarro, L. M., et al. 2021a, Astronomy & Astrophysics, 649, A6, doi: 10.1051/0004-6361/202039498
+* Gaia Collaboration, Brown, A. G. A., Vallenari, A., et al. 2021b, Astronomy & Astrophysics, 649, A1, doi: 10.1051/0004-6361/202039657
+* Gallart, C., Bernard, E. J., Brook, C. B., et al. 2019, Nature Astronomy, 3, 932, doi: 10.1038/s41550-019-0829-5
+* Harris, W. E. 1996, The Astronomical Journal, 112, 1487, doi: 10.1086/118116
+* Hidalgo, S. L., Pietrinferni, A., Cassisi, S., et al. 2018, The Astrophysical Journal, 856, 125, doi: 10.3847/1538-4357/aab158
+* Horta, D., Schiavon, R. P., Mackereth, J. T., et al. 2020, Monthly Notices of the Royal Astronomical Society, 493, 3363, doi: 10.1093/mnras/staa478
+* Karttunen, H., Kr¨oger, P., Oja, H., Poutanen, M., & Donner, K. J. 2017, Fundamental astronomy (Springer-Verlag Berlin Heidelberg)
+* Lindegren, L., Bastian, U., Biermann, M., et al. 2021, Astronomy & Astrophysics, 649, A4, doi: 10.1051/0004-6361/202039653
+* Massari, D., Mucciarelli, A., Dalessandro, E., et al. 2017, Monthly Notices of the Royal Astronomical Society, 468, 1249, doi: 10.1093/mnras/stx549
+* Mucciarelli, A., & Bonifacio, P. 2020, Astronomy & Astrophysics, 640, A87, doi: 10.1051/0004-6361/202037703
+* Pedregosa, F., Varoquaux, G., Gramfort, A., et al. 2011, Journal of Machine Learning Research, 12, 2825
+* Piotto, G., Milone, A. P., Anderson, J., et al. 2012, The Astrophysical Journal, 760, 39, doi: 10.1088/0004-637X/760/1/39
+* Rivero, A., Gallart, C., & Monelli, M. 2022, The accuracy of stellar evolution models to interpret Gaia photometric data: impact on the derived star formation histories (TFG), Universidad de La Laguna, Grado en Física
+* Ruiz-Lara, T., Gallart, C., Bernard, E. J., & Cassisi, S. 2020, Nature Astronomy, 4, 965, doi: 10.1038/s41550-020-1097-0
+* Sakari, C. M., Shetrone, M., Venn, K., McWilliam, A., & Dotter, A. 2013, Monthly Notices of the Royal Astronomical Society, 434, 358, doi: 10.1093/mnras/stt1026
+* Taylor, J. R., & Thompson, W. 1982, An introduction to error analysis: the study of uncertainties in physical measurements, Vol. 2 (Springer)
+* Torres, J. S., Gallart, C., & Ruiz-Lara, T. 2022, A first robust star formation history of the solar neighbourhood within 100 pc using the Gaia Catalogue of Nearby Stars (TFM), Universidad de La Laguna, Máster en Astrofísica
+* Vasiliev, E., & Baumgardt, H. 2021, Monthly Notices of the Royal Astronomical Society, 505, 5978, doi: 10.1093/mnras/stab1475
