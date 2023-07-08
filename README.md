@@ -1,4 +1,4 @@
-<em> # CMD CREATOR </em>
+# CMD CREATOR
 
 ## INSTRUCCIONES (SPANISH)
 
