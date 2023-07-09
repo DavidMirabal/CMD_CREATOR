@@ -11,7 +11,7 @@ Para que todo funcione correctamente se debe descargar todo este repositorio en 
 * EXCLUSIVO PARA WINDOWS: Ejecutar **CMD_CREATOR_(WINDOWS).exe** y se debería abrir una ventana para introducir algunos parámetros.
 * PARA TODOS LOS USUARIOS (ES NECESARIO TENER INSTALADO PYTHON 3 Y ALGUNOS MODULOS TÍPICOS: NUMPY, MATPLOTLIB, SCIPY Y TKINTER): Ejecutar en un editor o en terminal el archivo **CMD_CREATOR.py**. Debería abrirse una ventana para introducir los parámetros.
 
-En primer lugar, el programa buscará cúmulos globulares en el catálogo de Harris dentro del rango de parámetros que se introduzcan. Se debe introducir una distancia máxima del Sol (en kpc) para la que se quiera buscar cúmulos 
+En primer lugar, el programa buscará cúmulos globulares en el catálogo de Harris dentro del rango de parámetros que se introduzcan. La información de las estrellas de estos cúmulos encontrados se obtiene del catálogo que ofrecen Vasiliev & Baumgardt (2021). Se debe introducir una distancia máxima del Sol (en kpc) para la que se quiera buscar cúmulos 
 globulares.  En la segunda línea, se introduce la extinción máxima permitida para buscar cúmulos (en E(B-V)). En la tercera línea, se introduce la máxima metalicidad (en [Fe/H]) para la que se quiera buscar cúmulos y de manera
 similar en la cuarta línea la mínima metalicidad posible del cúmulo. Al pulsar el botón **Start search** se buscarán en el catálogo de Harris todos los cúmulos que cumplan con los parámetros. Cuando termine de buscar, los 
 mostrará en el espacio de abajo. En este paso, se crea automáticamente un archivo .csv con estos cúmulos encontrados y su distancia al Sol, metalicidad y extinción (datos del catálogo de Harris). Este archivo se encuentra en
@@ -42,7 +42,7 @@ For everything to work correctly you must download this entire repository to you
 * EXCLUSIVELY FOR WINDOWS: Run **CMD_CREATOR_(WINDOWS).exe** and a window should open to enter some parameters.
 * FOR ALL USERS (YOU MUST HAVE PYTHON 3 AND SOME TYPICAL MODULES INSTALLED: NUMPY, MATPLOTLIB, SCIPY AND TKINTER): Run in an editor or terminal the file **CMD_CREATOR.py**. A window should open to enter the parameters.
 
-First, the program will search for globular clusters in the Harris catalog within the range of parameters you enter. You must enter a maximum distance from the Sun (in kpc) for which you want to search for globular clusters. 
+First, the program will search for globular clusters in the Harris catalog within the range of parameters you enter. You must enter a maximum distance from the Sun (in kpc) for which you want to search for globular clusters. Information on the stars in these found clusters is obtained from the catalog provided by Vasiliev & Baumgardt (2021).
 In the second line, enter the maximum extinction allowed to search for clusters (in E(B-V)). In the third line, enter the maximum metallicity (in [Fe/H]) for which you want to search for clusters and similarly in the fourth line
 the minimum metallicity (in [Fe/H]) for which you want to search for globular clusters. Pressing the **Start search** button will search the Harris catalog for all clusters that meet the parameters. When the search is finished, it will 
 will be displayed in the space below. In this step, a .csv file is automatically created with these found clusters and their distance to the Sun, metallicity and extinction (Harris catalog data). This file is located in
